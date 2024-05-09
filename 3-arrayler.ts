@@ -6,6 +6,7 @@
 
 
 // Kodu buraya yazalım...
+let ages:string[]=[];
 
 
 
@@ -20,7 +21,7 @@
 
 // Kodu buraya yazalım...
 
-
+// let gameboard:string[]=[];  ???
 
 
 // **********************************************
@@ -32,6 +33,11 @@
 
 
 // Kodu buraya yazalım...
+type Product={
+    name:string,
+    price:number
+}
+
 
 
 
@@ -45,3 +51,7 @@
 
 
 // Kodu buraya yazalım...
+let products = [];
+function getTotal(products:Product[]):number{
+    let total: ;
+return total }
